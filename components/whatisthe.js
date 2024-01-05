@@ -18,7 +18,7 @@ const Whatisthe = () => {
                           <h5 className={'font-extrabold text-black'}>Read More</h5>
                       </div>
                   </div>
-                  <Image className={'w-[600px] h-[500px]  flex object-cover'} src={'/image7.svg'} width={525} height={500} alt={''}/>
+                  <Image className={'2xl:w-[600px] w-[150px] sm:w-[250px] md:w-[300px] lg:w-[450px] h-[500px]  flex object-cover'} src={'/image7.svg'} width={525} height={500} alt={''}/>
 
               </div>
           </div>
