@@ -39,7 +39,7 @@ Feel free to explore and contribute to the Hot Coffee Blog project. Share your p
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/hot-coffee-blog.git
+Clone the repository: git clone https://github.com/lutfiEmre/hotcoffeeblog
 Install dependencies: npm install
 Run the project: npm run dev
 Happy coding and coffee exploring! ☕️✨
